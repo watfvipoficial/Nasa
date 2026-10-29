@@ -1,0 +1,6 @@
+{
+  "name": "AstroStrike",
+  "description": "Juego de guerra espacial táctica de la NASA con física orbital en tiempo real, naves nodrizas personalizables y combate interplanetario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
